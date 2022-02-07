@@ -1,0 +1,39 @@
+[
+    {
+       
+    "name":"username",    
+    "payment_schedule":"karthi@gmmail.com",  
+    "bill_number":"1234578",  
+    "amount_paid":1234567305477760,   
+    "date":"02-09-2021"
+
+    },
+    {
+       
+        "name":"username",  
+        "payment_schedule":"karthi@gmmail.com",  
+        "bill_number":"1234578",  
+        "amount_paid":1234567305477760,   
+        "date":"02-09-2021"
+    
+        },
+        {
+       
+            "name":"username",  
+            "payment_schedule":"karthi@gmmail.com",  
+            "bill_number":"1234578",  
+            "amount_paid":1234567305477760,   
+            "date":"02-09-2021"
+        
+            },
+            {
+       
+                "name":"username",  
+                "payment_schedule":"karthi@gmmail.com",  
+                "bill_number":"1234578",  
+                "amount_paid":1234567305477760,   
+                "date":"02-09-2021"
+            
+                }
+]
+

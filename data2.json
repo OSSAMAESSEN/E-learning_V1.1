@@ -1,0 +1,46 @@
+
+[
+    {
+       
+    "name":"karthi",    
+    "payment_schedule":"first",  
+    "bill_number":"00012223",  
+    "amount_paid":"DHS100.000",
+    "Balance Amount" : "DHS500.000" ,   
+    "date":"05-Jan,2021"
+
+    },
+    {
+       
+        "name":"karthi",    
+    "payment_schedule":"first",  
+    "bill_number":"00012223",  
+    "amount_paid":"DHS100.000",
+    "Balance Amount" : "DHS500.000" ,   
+    "date":"05-Jan,2021"
+
+    
+        },
+        {
+       
+            "name":"karthi",    
+            "payment_schedule":"first",  
+            "bill_number":"00012223",  
+            "amount_paid":"DHS100.000",
+            "Balance Amount" : "DHS500.000" ,   
+            "date":"05-Jan,2021"
+        
+        
+            },
+            {
+       
+                "name":"karthi",    
+                "payment_schedule":"first",  
+                "bill_number":"00012223",  
+                "amount_paid":"DHS100.000",
+                "Balance Amount" : "DHS500.000" ,   
+                "date":"05-Jan,2021"
+            
+            
+                }
+]
