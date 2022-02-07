@@ -58,44 +58,8 @@
                                   <hr> 
                                   <?php
                     
-                                            $students=array(
-                                              array( 
-                                                'name'=>'username',  
-                                                'payment_schedule'=>'karthi@gmmail.com',  
-                                                'bill_number'=>'1234578',  
-                                                'amount_paid'=>'1234567305477760',   
-                                                'date'=>'02/09/2021',  
-                                              ),
-                                              array( 
-                                                'name'=>'username', 
-                                                'payment_schedule'=>'karthi@gmmail.com',  
-                                                'bill_number'=>'1234578',  
-                                                'amount_paid'=>'1234567305477760',   
-                                                'date'=>'02/09/2021',  
-                                              ),
-                                              array( 
-                                                'name'=>'username', 
-                                                'payment_schedule'=>'karthi@gmmail.com',  
-                                                'bill_number'=>'1234578',  
-                                                'amount_paid'=>'1234567305477760',   
-                                                'balance_amount'=>'5,200 DH',    
-                                                'date'=>'02/09/2021',  
-                                              ),
-                                              array( 
-                                                'name'=>'username', 
-                                                'payment_schedule'=>'karthi@gmmail.com',  
-                                                'bill_number'=>'1234578',  
-                                                'amount_paid'=>'1234567305477760',   
-                                                'date'=>'02/09/2021',  
-                                              ),
-                                              array( 
-                                                'name'=>'username', 
-                                                'payment_schedule'=>'karthi@gmmail.com',  
-                                                'bill_number'=>'1234578',  
-                                                'amount_paid'=>'1234567305477760',   
-                                                'date'=>'02/09/2021',  
-                                              )
-                                          );   
+                                          $data=file_get_contents('data.json');
+                                          $students=json_decode($data,true);    
                                  ?> 
                                 <div class="table-responsive"> 
                                   <table class="table ">   
